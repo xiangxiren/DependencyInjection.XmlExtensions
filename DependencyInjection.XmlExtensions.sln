@@ -13,7 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlExtensions.Test", "XmlIn
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B429AF63-127C-4D40-9641-CFCB342D7345}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\Core\DependencyInjection\.gitignore = ..\..\Core\DependencyInjection\.gitignore
 		README.md = README.md
 	EndProjectSection
 EndProject
